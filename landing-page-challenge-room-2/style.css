@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@300&family=Playfair+Display:wght@400;500&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+  }
+#first {
+background: linear-gradient(to bottom, rgb(208, 81, 69), rgb(255, 128, 128));
+height: 500px;
+color: #fff !important;
+font-family: "Hind Siliguri";
+border-bottom-left-radius: 80px;
+border-bottom-right-radius: 80px;
+}
+#brand-name {
+    color: #fff !important;
+    font-size: 25px;
+    padding: 40px;
+    padding-left: 70px;
+    padding-right: 70px;
+}
+#btn_s {
+    padding: 10px;
+    padding-left: 70px;
+    padding-right: 70px;
+    border-radius: 300px;
+}
+#first .container {
+    font-size: 40px;
+}
+
+nav {
+    margin-bottom: 60px;
+}
+
+.btn {
+    border-radius: 100px;
+}
+.btn:hover {
+    color:  rgb(255, 128, 128);
+}
+
+
+#sign_up {
+    background-color: #fff;
+    color:  rgb(255, 128, 128);
+}
+#start_free { 
+    background-color: #ffffff;
+    color:  rgb(255, 128, 128, 0.7);
+}
+#sign_up:hover {
+    background-color: #ffffffd3;
+    color:  rgb(255, 128, 128, 0.5);
+}
+#start_free:hover {
+    background-color: #ffffffd3;
+    color:  rgb(255, 128, 128, 0.5);
+}
+.dropdown-toggle {
+    color: #fff !important;
+}
+#third {
+    border-bottom-left-radius: 100px;
+    border-top-right-radius: 100px;
+}
+#footerr {
+    border-bottom-left-radius: 80px;
+    border-top-right-radius: 80px;
+}

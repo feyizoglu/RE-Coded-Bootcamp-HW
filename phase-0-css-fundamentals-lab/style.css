@@ -1,0 +1,28 @@
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+}
+header,
+figure,
+#featured-property {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+nav a {
+  padding: 10px 0;
+  background: #7a7979;
+}
+#featured-property p {
+  width: 800px;
+  text-align: center;
+}
+#details {
+  display: flex;
+  justify-content: space-around;
+  background: #8a1717;
+}
+div p {
+  width: 250px;
+}
